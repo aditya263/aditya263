@@ -36,7 +36,7 @@
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya263&show_icons=true&locale=en" alt="aditya263" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya263&show_icons=true&locale=en" alt="aditya263" /> <br/><br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya263&show_icons=true&locale=en&layout=compact" alt="aditya263" />
 <br/>
 
