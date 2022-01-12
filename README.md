@@ -1,7 +1,7 @@
 <img align="right" alt="Namaste" src="https://user-images.githubusercontent.com/63837613/148331280-7d769fc7-8515-45e2-90a7-955ca8c0e6b4.png"/>
 
 <h1 align="center">Hi 👋, I'm Aditya Ranjan Pandey 😎</h1>
-<h3 align="center">A passionate Android App developer from India</h3>
+<h3 align="center">A passionate Software developer from India 🇮🇳</h3>
 
 
 <br />
