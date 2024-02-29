@@ -6,18 +6,18 @@
 
 <br />
 ⚈ 🔭 I’m currently working on my personal project. <br>
-⚈ 🌱 I’m currently brushing up my skills & plan to learn Flutter and React Native. <br>
+⚈ 🌱 I’m currently brushing up my skills & plan to learn Flutter. <br>
 ⚈ 🥅 I'm looking to collaborate on Native/Hybrid Application Projects. <br> 
 ⚈ 👯 I’m willing to work on freelace projects & love to contribute to open source projects. <br>
 ⚈ 💬 Ask me about Android and Flutter. <br>
 ⚈ 😄 Pronouns: He/His/Him. <br>
 ⚈ ⚡ Fun fact: I think I am funny XD. <br>
 
-### 🎯 Goals for 2022
+### 🎯 Goals for 2024
 ⚈ Complete #100DaysOfCode challenge. <br>
 ⚈ Build 50+ projects. <br>
 ⚈ Contribute more to open source projects. <br>
-⚈ Become skilled in Android, Flutter and React Native. <br>
+⚈ Become skilled in Android & Flutter. <br>
 
 ### 💻 Connect with me:
 
